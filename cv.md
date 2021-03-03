@@ -33,7 +33,10 @@ double Vectorsmultiplication(double *Vec1, double *Vec2, int size) {
 
 ## Education
 
-- Higher Education: Lobachevsky State University of Nizhni Novgorod; Institute of Information Technology, Mathematics and Mechanics - 2016-2021
+Higher Education:
+Lobachevsky State University of Nizhni Novgorod
+Institute of Information Technology, Mathematics and Mechanics
+2016-2021
 
 ## English
 
